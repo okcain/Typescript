@@ -1,0 +1,10 @@
+# Bağımlılıklar (GitHub'a gerek yok, npm install ile gelir)
+node_modules/
+
+# Derlenmiş dosyalar (İleride lazım olacak)
+dist/
+*.js
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
